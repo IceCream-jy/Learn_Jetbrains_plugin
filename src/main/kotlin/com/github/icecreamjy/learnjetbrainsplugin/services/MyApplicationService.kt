@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.icecreamjy.learnjetbrainsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.icecreamjy.learnjetbrainsplugin.MyBundle
 
 class MyApplicationService {
 
